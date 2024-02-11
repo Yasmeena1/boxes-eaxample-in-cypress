@@ -1,1 +1,1 @@
-"# boxes-eaxample-in-cypress" 
+"# boxes-example-in-cypress" 
